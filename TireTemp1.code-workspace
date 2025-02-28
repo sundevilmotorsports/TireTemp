@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "flashAddress",
+			"path": "../../../Documents/PlatformIO/Projects/flashAddress"
+		}
+	],
+	"settings": {}
+}
